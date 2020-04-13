@@ -33,7 +33,7 @@ end
         #LIST OF ACTION OPTIONS
 
         else 
-            puts "Not familiar with that genre. Try another"
+            puts "Not familiar with that genre. Try another one"
             app_start
         end
     end
